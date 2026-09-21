@@ -1,0 +1,338 @@
+[
+  {
+    "startedAt": "2026-09-18T08:00:36.769Z",
+    "completedAt": "2026-09-18T08:01:54.507Z",
+    "elapsedMs": 77738,
+    "elapsedSeconds": 77.738,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-370"
+  },
+  {
+    "startedAt": "2026-09-18T08:05:33.637Z",
+    "completedAt": "2026-09-18T08:06:49.170Z",
+    "elapsedMs": 75533,
+    "elapsedSeconds": 75.533,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-372"
+  },
+  {
+    "startedAt": "2026-09-18T08:08:23.750Z",
+    "completedAt": "2026-09-18T08:09:42.858Z",
+    "elapsedMs": 79108,
+    "elapsedSeconds": 79.108,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-374"
+  },
+  {
+    "startedAt": "2026-09-18T08:26:00.157Z",
+    "completedAt": "2026-09-18T08:26:56.632Z",
+    "elapsedMs": 56475,
+    "elapsedSeconds": 56.475,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-378"
+  },
+  {
+    "startedAt": "2026-09-21T02:28:45.652Z",
+    "completedAt": "2026-09-21T02:29:45.289Z",
+    "elapsedMs": 59637,
+    "elapsedSeconds": 59.637,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-383"
+  },
+  {
+    "startedAt": "2026-09-21T02:32:21.232Z",
+    "completedAt": "2026-09-21T02:33:19.712Z",
+    "elapsedMs": 58480,
+    "elapsedSeconds": 58.48,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-385"
+  },
+  {
+    "startedAt": "2026-09-21T02:34:23.018Z",
+    "completedAt": "2026-09-21T02:35:32.424Z",
+    "elapsedMs": 69406,
+    "elapsedSeconds": 69.406,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-387"
+  },
+  {
+    "startedAt": "2026-09-21T02:35:48.297Z",
+    "completedAt": "2026-09-21T02:36:42.906Z",
+    "elapsedMs": 54609,
+    "elapsedSeconds": 54.609,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-389"
+  },
+  {
+    "startedAt": "2026-09-21T02:37:20.665Z",
+    "completedAt": "2026-09-21T02:38:12.059Z",
+    "elapsedMs": 51394,
+    "elapsedSeconds": 51.394,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-391"
+  },
+  {
+    "startedAt": "2026-09-21T02:38:31.212Z",
+    "completedAt": "2026-09-21T02:39:27.945Z",
+    "elapsedMs": 56733,
+    "elapsedSeconds": 56.733,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-393"
+  },
+  {
+    "startedAt": "2026-09-21T02:40:00.973Z",
+    "completedAt": "2026-09-21T02:41:19.469Z",
+    "elapsedMs": 78496,
+    "elapsedSeconds": 78.496,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-395"
+  },
+  {
+    "startedAt": "2026-09-21T02:42:08.711Z",
+    "completedAt": "2026-09-21T02:43:10.330Z",
+    "elapsedMs": 61619,
+    "elapsedSeconds": 61.619,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-397"
+  },
+  {
+    "startedAt": "2026-09-21T04:21:14.917Z",
+    "completedAt": "2026-09-21T04:22:07.269Z",
+    "elapsedMs": 52352,
+    "elapsedSeconds": 52.352,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-401"
+  },
+  {
+    "startedAt": "2026-09-21T04:23:04.463Z",
+    "completedAt": "2026-09-21T04:23:55.071Z",
+    "elapsedMs": 50608,
+    "elapsedSeconds": 50.608,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-403"
+  },
+  {
+    "startedAt": "2026-09-21T04:24:05.066Z",
+    "completedAt": "2026-09-21T04:24:59.156Z",
+    "elapsedMs": 54090,
+    "elapsedSeconds": 54.09,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-405"
+  },
+  {
+    "startedAt": "2026-09-21T04:25:15.451Z",
+    "completedAt": "2026-09-21T04:26:11.253Z",
+    "elapsedMs": 55802,
+    "elapsedSeconds": 55.802,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-407"
+  },
+  {
+    "startedAt": "2026-09-21T04:26:31.430Z",
+    "completedAt": "2026-09-21T04:27:32.815Z",
+    "elapsedMs": 61385,
+    "elapsedSeconds": 61.385,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-409"
+  },
+  {
+    "startedAt": "2026-09-21T04:27:47.261Z",
+    "completedAt": "2026-09-21T04:28:44.222Z",
+    "elapsedMs": 56961,
+    "elapsedSeconds": 56.961,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-411"
+  },
+  {
+    "startedAt": "2026-09-21T04:28:57.272Z",
+    "completedAt": "2026-09-21T04:29:38.956Z",
+    "elapsedMs": 41684,
+    "elapsedSeconds": 41.684,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-413"
+  },
+  {
+    "startedAt": "2026-09-21T05:52:04.004Z",
+    "completedAt": "2026-09-21T05:53:08.916Z",
+    "elapsedMs": 64912,
+    "elapsedSeconds": 64.912,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-415"
+  },
+  {
+    "startedAt": "2026-09-21T05:53:24.802Z",
+    "completedAt": "2026-09-21T05:54:33.459Z",
+    "elapsedMs": 68657,
+    "elapsedSeconds": 68.657,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-417"
+  },
+  {
+    "startedAt": "2026-09-21T05:54:45.299Z",
+    "completedAt": "2026-09-21T05:55:55.241Z",
+    "elapsedMs": 69942,
+    "elapsedSeconds": 69.942,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-419"
+  },
+  {
+    "startedAt": "2026-09-21T05:57:01.168Z",
+    "completedAt": "2026-09-21T05:58:01.170Z",
+    "elapsedMs": 60002,
+    "elapsedSeconds": 60.002,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-421"
+  },
+  {
+    "startedAt": "2026-09-21T05:58:44.404Z",
+    "completedAt": "2026-09-21T05:59:52.083Z",
+    "elapsedMs": 67679,
+    "elapsedSeconds": 67.679,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-423"
+  },
+  {
+    "startedAt": "2026-09-21T06:00:03.446Z",
+    "completedAt": "2026-09-21T06:00:45.592Z",
+    "elapsedMs": 42146,
+    "elapsedSeconds": 42.146,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-425"
+  },
+  {
+    "startedAt": "2026-09-21T06:00:59.030Z",
+    "completedAt": "2026-09-21T06:02:05.771Z",
+    "elapsedMs": 66741,
+    "elapsedSeconds": 66.741,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-427"
+  },
+  {
+    "startedAt": "2026-09-21T06:02:21.905Z",
+    "completedAt": "2026-09-21T06:03:35.541Z",
+    "elapsedMs": 73636,
+    "elapsedSeconds": 73.636,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-429"
+  },
+  {
+    "startedAt": "2026-09-21T06:04:14.516Z",
+    "completedAt": "2026-09-21T06:05:12.255Z",
+    "elapsedMs": 57739,
+    "elapsedSeconds": 57.739,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-431"
+  },
+  {
+    "startedAt": "2026-09-21T06:05:30.796Z",
+    "completedAt": "2026-09-21T06:06:31.826Z",
+    "elapsedMs": 61030,
+    "elapsedSeconds": 61.03,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-433"
+  },
+  {
+    "startedAt": "2026-09-21T06:07:05.411Z",
+    "completedAt": "2026-09-21T06:08:07.578Z",
+    "elapsedMs": 62167,
+    "elapsedSeconds": 62.167,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-435"
+  },
+  {
+    "startedAt": "2026-09-21T06:08:17.995Z",
+    "completedAt": "2026-09-21T06:09:25.111Z",
+    "elapsedMs": 67116,
+    "elapsedSeconds": 67.116,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-437"
+  },
+  {
+    "startedAt": "2026-09-21T06:13:22.423Z",
+    "completedAt": "2026-09-21T06:14:25.905Z",
+    "elapsedMs": 63482,
+    "elapsedSeconds": 63.482,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-441"
+  },
+  {
+    "startedAt": "2026-09-21T06:14:41.692Z",
+    "completedAt": "2026-09-21T06:15:52.086Z",
+    "elapsedMs": 70394,
+    "elapsedSeconds": 70.394,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-443"
+  },
+  {
+    "startedAt": "2026-09-21T06:16:27.445Z",
+    "completedAt": "2026-09-21T06:17:28.319Z",
+    "elapsedMs": 60874,
+    "elapsedSeconds": 60.874,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-445"
+  },
+  {
+    "startedAt": "2026-09-21T06:18:11.182Z",
+    "completedAt": "2026-09-21T06:19:06.125Z",
+    "elapsedMs": 54943,
+    "elapsedSeconds": 54.943,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-447"
+  },
+  {
+    "startedAt": "2026-09-21T06:19:32.819Z",
+    "completedAt": "2026-09-21T06:20:11.576Z",
+    "elapsedMs": 38757,
+    "elapsedSeconds": 38.757,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-449"
+  },
+  {
+    "startedAt": "2026-09-21T06:20:22.859Z",
+    "completedAt": "2026-09-21T06:21:23.137Z",
+    "elapsedMs": 60278,
+    "elapsedSeconds": 60.278,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-451"
+  },
+  {
+    "startedAt": "2026-09-21T06:21:32.125Z",
+    "completedAt": "2026-09-21T06:22:27.730Z",
+    "elapsedMs": 55605,
+    "elapsedSeconds": 55.605,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-453"
+  },
+  {
+    "startedAt": "2026-09-21T06:22:46.580Z",
+    "completedAt": "2026-09-21T06:24:11.896Z",
+    "elapsedMs": 85316,
+    "elapsedSeconds": 85.316,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-455"
+  },
+  {
+    "startedAt": "2026-09-21T06:24:25.097Z",
+    "completedAt": "2026-09-21T06:25:24.834Z",
+    "elapsedMs": 59737,
+    "elapsedSeconds": 59.737,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-457"
+  },
+  {
+    "startedAt": "2026-09-21T06:25:55.156Z",
+    "completedAt": "2026-09-21T06:26:56.812Z",
+    "elapsedMs": 61656,
+    "elapsedSeconds": 61.656,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-459"
+  },
+  {
+    "startedAt": "2026-09-21T06:28:40.286Z",
+    "completedAt": "2026-09-21T06:29:43.884Z",
+    "elapsedMs": 63598,
+    "elapsedSeconds": 63.598,
+    "workType": "Site Creation",
+    "issueKey": "CMSGEN-461"
+  }
+]

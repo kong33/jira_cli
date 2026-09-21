@@ -3,7 +3,10 @@ import inquirer from "inquirer";
 import process from "process";
 
 import { getIssue, createIssue } from "../jira/issue.js";
-
+import {
+  getLastCreatedIssueKey,
+  saveLastCreatedIssueKey,
+} from "../jira/state.js";
 import {
   extractDescriptionFields,
   updateDescriptionValues,
@@ -14,13 +17,19 @@ import {
   getCreateFields,
   searchAssignableUsers,
 } from "../jira/metadata.js";
+import {
+  completeTiming,
+  startTiming,
+} from "../jira/timing.js";
+
+startTiming();
 
 // ----------------------------------------
 // Work Type별 Template Issue
 // ----------------------------------------
 
 const templateIssues: Record<string, string> = {
-  "Site Creation": "CMSGEN-327",
+  "Site Creation": "CMSGEN-438",
   "Service Creation": "CMSGEN-332",
   "Site Fixing": "CMSGEN-333",
   "Service Fixing": "CMSGEN-331",
@@ -45,9 +54,8 @@ async function main() {
   // 마지막 생성 Issue
   // ----------------------------------------
 
-  let lastCreatedIssueKey:
-    | string
-    | undefined;
+ let lastCreatedIssueKey =
+  getLastCreatedIssueKey();
 
   // ----------------------------------------
   // 1. Work Type 선택
@@ -190,8 +198,11 @@ async function main() {
       });
 
     // 마지막 생성 Issue 저장
-    lastCreatedIssueKey =
-      createdIssue.key;
+lastCreatedIssueKey = createdIssue.key;
+
+saveLastCreatedIssueKey(
+  createdIssue.key
+);
 
     const baseUrl =
       process.env.JIRA_BASE_URL;
@@ -444,7 +455,8 @@ async function main() {
         type: "input",
         name: "dueDate",
         message:
-          "Due Date (YYYY-MM-DD, Enter = 미입력):",
+          "Due Date (YYYY-MM-DD, Enter = 기본값 사용):",
+        default: "2026-09-25",
         validate: (
           value: string
         ) => {
@@ -699,6 +711,11 @@ async function main() {
   // 마지막 생성 Issue 저장
   lastCreatedIssueKey =
     createdIssue.key;
+
+  completeTiming(
+    workTypeName,
+    createdIssue.key
+  );
 
   // ----------------------------------------
   // 16. 결과
